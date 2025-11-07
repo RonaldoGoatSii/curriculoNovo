@@ -7,3 +7,10 @@
 **LinkedIn:** [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 
 ---
+
+## 🎓 Formação Académica
+
+**ETIC Algarve** — Curso Técnico de Programação e Multimédia *(em curso)*  
+📅 Início: [ano de início] – Presente  
+
+---

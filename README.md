@@ -14,3 +14,10 @@
 📅 Início: [ano de início] – Presente  
 
 ---
+
+## 💼 Experiência Profissional
+
+**Estágio Curricular — NacionalGest**  
+- Apoio em tarefas administrativas e técnicas.  
+- Introdução a conceitos de desenvolvimento de software e tecnologias usadas na empresa.  
+- Colaboração em pequenos projetos de programação sob supervisão.  
